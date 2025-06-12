@@ -1,0 +1,25 @@
+{
+  "name": "ecommerceapp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mukti2216patel/ecommerceApp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mukti2216patel/ecommerceApp/issues"
+  },
+  "homepage": "https://github.com/mukti2216patel/ecommerceApp#readme",
+  "description": "ecommerceApp",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "express": "^5.1.0"
+  }
+}
